@@ -492,7 +492,7 @@ small.small {
 }
 
 @media screen and (max-width:767px) {
-  
+
   h1,
   .h1 { 
     font-size:50px;
@@ -1000,7 +1000,7 @@ form label.uppercase {
 }
 
 @media screen and (max-width:767px) {
-  
+
   form input,
   form textarea {
     margin-left:auto !important;
@@ -4427,4 +4427,16 @@ form input[type="text"].input-96, form input[type="name"].input-96, form input[t
   top: 0; 
   left: 0; 
   z-index: 0; /* Set z-index to 0 as it will be on a layer below the contact form */
+}
+
+.sections .menu {
+  font-family: Raleway;
+\\\\\\\
+.panel .button {
+  font-family: Raleway;
+}  
+
+h3.small.uppercase {
+  font-family: Raleway;
+  font-size: 20px;
 }
