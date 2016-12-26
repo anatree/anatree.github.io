@@ -2668,7 +2668,7 @@ html:not(.page-loaded) .slides.scroll .slide {
   height:100%;
   color:#fff;
   z-index:500;
-  background:rgba(34,34,34,1);
+  background:rgba(21,96,f3,1);2196f3
   -webkit-transition:-webkit-transform 0.5s, visibility 0s;
   transition:transform 0.5s, visibility 0s;
   -webkit-transform:translateX(100%);
@@ -4431,7 +4431,7 @@ form input[type="text"].input-96, form input[type="name"].input-96, form input[t
 
 .sections .menu {
   font-family: Raleway;
-\\\\\\\
+}}
 .panel .button {
   font-family: Raleway;
 }  
@@ -4440,3 +4440,5 @@ h3.small.uppercase {
   font-family: Raleway;
   font-size: 20px;
 }
+
+.anatreeDarkBlue { background-color:#1976d2 !important; color:#fff!important;}
