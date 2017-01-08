@@ -4431,7 +4431,8 @@ form input[type="text"].input-96, form input[type="name"].input-96, form input[t
 
 .sections .menu {
   font-family: Raleway;
-}}
+}
+
 .panel .button {
   font-family: Raleway;
 }  
@@ -4439,6 +4440,86 @@ form input[type="text"].input-96, form input[type="name"].input-96, form input[t
 h3.small.uppercase {
   font-family: Raleway;
   font-size: 20px;
+
 }
 
 .anatreeDarkBlue { background-color:#1976d2 !important; color:#fff!important;}
+
+
+.sections .menu {
+  font-family: Roboto;
+  color: #212121;
+}
+
+.button {
+  font-family: Roboto;
+  color: #212121;
+}
+
+p.small {
+  font-family: Roboto;
+
+}
+
+h3, .h3 {
+  font-family: Roboto Condensed;
+  color: #212121;
+
+}
+
+h2, .h2 {
+  font-family: Roboto Condensed;
+  color: #212121;
+}
+
+p.hero {
+  font-family: Roboto;
+  color: #212121;
+  font-weight: 400;
+  font-size: 23px;
+}
+
+h1.small {
+  font-family: Roboto Condensed;
+  letter-spacing: -0.03em;
+  color: #212121;
+
+
+}
+
+.slides.whiteSlide .panel .menuButton {
+ background:#ff5252;
+ color: #fff;
+}
+
+h3.small.uppercase {
+  font-family: Roboto;
+  color: #fff;
+
+
+}
+
+h2.uppercase {
+  color: #fff;
+}
+
+.playfair {
+  font-family:'Roboto', serif !important;
+}
+
+h3.small.uppercase {
+  font-family: Roboto Condensed;
+  font-size: 25px;
+  color: #212121;
+  margin-bottom:12px;
+  font-weight:600;
+}
+
+h3.uppercase, 
+.h3.uppercase {
+ font-family: Roboto Condensed;
+ font-size: 25px;
+ color: #212121;
+ margin-bottom:12px;
+ font-weight:600;
+}
